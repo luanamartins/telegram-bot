@@ -1,0 +1,26 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luanamartins/telegram-bot.git"
+  },
+  "keywords": [
+    "telegram"
+  ],
+  "author": "luanamartins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luanamartins/telegram-bot/issues"
+  },
+  "homepage": "https://github.com/luanamartins/telegram-bot#readme",
+  "dependencies": {
+    "dotenv": "4.0.0",
+    "node-telegram-bot-api": "0.30.0"
+  }
+}
